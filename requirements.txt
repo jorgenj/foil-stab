@@ -1,0 +1,5 @@
+vidstab
+vidstab[cv2]
+ffmpy
+moviepy
+imutils
